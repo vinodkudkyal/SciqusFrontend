@@ -11,8 +11,7 @@ A high-performance, responsive Single Page Application (SPA) dashboard built for
 
 ## 🚀 Live Demo
 
-**[View Live Dashboard](https://sciqusfrontend.onrender.com/)** *(Replace with your actual deployment link once active)*
-
+**[View Live Dashboard](https://sciqusfrontend.onrender.com/)** 
 ---
 
 ## 📋 Table of Contents
